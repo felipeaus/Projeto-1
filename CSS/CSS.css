@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+}
+
+div.div1{
+    display: flex;
+    height: 80px;
+    background-color: #0a0a0a;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey
+}
+
+img.img1{
+height: 60px;
+width: 80px;
+margin-top: 10px;
+}
+
+div.div1-div1{
+    margin-left: 48px;
+    margin-left: 150px;
+}
+
+div.div1-div2{
+    margin-right: 150px;
+
+}
+
+a{
+    color: white; 
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.span1{
+    position: relative;
+    top: -20px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.span2{
+    margin-right: 20px;
+}
+
+button{
+    margin: 5px;
+    padding: 10px 35px;
+    border: 5px solid blue;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+div.div3{
+    display: flex;
+    justify-content: space-around;
+    background-color: #141414;
+    height: 100%;
+}
+
+.div3-3{
+    margin-left: 80px;
+    margin-top: 65px;
+}
+
+img.img2{
+    height: 70%;
+    width: 90%;
+    margin-right: 80px;
+    margin-top: 65px;
+}
+
+img.img3{
+    position: relative;
+    top: -53px;
+    right: -113px;
+    height: 30px;
+    width: 30px;
+}
+
+h3{
+    color: #91d5ff;
+    font-size: 25px;
+}
+
+h1{
+    margin-top: -25px;
+    color: white;
+    font-size: 50px;
+}
+
+span.span4{
+color: white;
+font-size: 20px;
+}
+
+span.span5{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button.span6{
+    margin-top: 35px;
+    margin-left: -5px;
+    padding: 15px 50px;;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+div.div4{
+    display: flex;
+    justify-content: space-around;
+    background-color: #141414;
+    height: 100%; 
+    margin-bottom: -450px;    
+}
+
+h2{
+    color: #5cff9b;
+    font-weight: bold;
+    border-bottom: 2px solid  gray;
+    padding-bottom: 5px;
+    margin-bottom: -10px;
+}
+
+.span7{
+    font-size: 20px;
+    color: white;
+}
+
+div.div5{
+    display: flex;
+    height: 100%;
+    background-color: #141414;
+}
+
+.img5{
+    top: 300px; 
+    height: 10px;
+    width: 100%;
+}
